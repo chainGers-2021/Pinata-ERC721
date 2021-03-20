@@ -1,0 +1,18 @@
+{
+  "name": "pinata-erc721",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.4.1",
+    "axios": "^0.21.1",
+    "form-data": "^4.0.0",
+    "start": "^5.1.0"
+  }
+}
